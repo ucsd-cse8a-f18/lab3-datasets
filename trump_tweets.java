@@ -1,3 +1,3 @@
 String path = "./trump_tweets.csv";
-String colName = "Text";
+String colName = "Retweets";
 int rowIndex = 233;

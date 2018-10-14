@@ -1,3 +1,3 @@
 String path = "./movie_data.csv";
-String colName = "Title";
+String colName = "Gross";
 int rowIndex = 27;

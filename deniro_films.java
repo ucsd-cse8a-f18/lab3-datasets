@@ -1,3 +1,3 @@
 String path = "./deniro_films.csv";
-String colName = "\"Title\"";
+String colName = "\"Score\"";
 int rowIndex = 9;

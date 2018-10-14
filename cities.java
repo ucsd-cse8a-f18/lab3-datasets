@@ -1,3 +1,3 @@
 String path = "./cities.csv";
-String colName = "\"State\"";
+String colName = "\"City\"";
 int rowIndex = 34;

@@ -1,3 +1,3 @@
 String path = "./zoo_animals.csv";
-String colName = "animal";
+String colName = "type";
 int rowIndex = 245;
